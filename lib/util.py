@@ -1,5 +1,5 @@
 def add(a, b) -> int:
 	return a+b
 
-def sub(a, b) -> int:
+def sub(a, b) -> float:
 	return a-b
